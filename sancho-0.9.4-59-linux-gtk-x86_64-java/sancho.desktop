@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=sancho
+MimeType=
+Exec=/home/momo/bin/sancho-0.9.4-59-linux-gtk-x86_64-java/sancho
+Type=Application
+GenericName=sancho
+Comment=sancho 0.9.4-59
+Terminal=false
+Icon=/home/momo/bin/sancho-0.9.4-59-linux-gtk-x86_64-java/icon.ico
